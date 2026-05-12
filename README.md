@@ -1,8 +1,3 @@
-# CLI — Client Enquiry Intelligence
-
-> An AI-powered command-line tool that classifies, analyses, and drafts responses to client enquiries in real time — powered by GPT-5 and the Vercel AI SDK.
-
----
 
 ## 📽️ Demo
 
@@ -62,9 +57,6 @@ Then open `.env` and add your OpenAI key:
 ```env
 OPENAI_API_KEY=sk-...your-key-here...
 ```
-
-> ⚠️ Never commit your `.env` file. It's already in `.gitignore`.
-
 ---
 
 ### 3 — Install dependencies
@@ -140,31 +132,3 @@ node .
 </details>
 
 ---
-
-## 📁 Project structure
-
-```
-strata-practical-task/
-├── index.js          # Main server + CLI entry point
-├── .env.example      # Environment variable template
-├── package.json
-└── README.md
-```
-
----
-
-## 🔧 Troubleshooting
-
-| Issue | Fix |
-|---|---|
-| `❯` arrow not showing | Run in Windows Terminal or a modern terminal emulator |
-| `OPENAI_API_KEY not set` | Check your `.env` file is in the project root (not `.env.example`) |
-| `gpt-5 model not found` | Ensure your OpenAI account has access to GPT-5 |
-| `Cannot find module` | Run `npm install` first |
-| Port 3000 already in use | Change `const port = 3000` in `index.js` to another port |
-
----
-
-## 📄 License
-
-MIT — feel free to fork and adapt.
