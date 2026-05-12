@@ -3,7 +3,7 @@
 
 | Overview | Setup Walkthrough |
 |---|---|
-| [![Loom Demo](https://img.shields.io/badge/▶%20Watch%20Demo-Loom-00897B?style=for-the-badge&logo=loom&logoColor=white)](https://loom.com/YOUR_DEMO_LINK) | [![Loom Setup](https://img.shields.io/badge/▶%20Watch%20Setup-Loom-00897B?style=for-the-badge&logo=loom&logoColor=white)](https://loom.com/YOUR_SETUP_LINK) |
+| [![Loom Demo](https://img.shields.io/badge/▶%20Watch%20Demo-Loom-00897B?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/b01719fa435c449a90af76c8170b8ea8) | [![Loom Setup](https://img.shields.io/badge/▶%20Watch%20Setup-Loom-00897B?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/3598d64d11764382bda5ce087cb41ed9) |
 | See the tool in action — live classification, urgency scoring, and draft responses | Step-by-step environment setup from clone to first run |
 
 ---
