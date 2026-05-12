@@ -34,7 +34,7 @@ Paste or type any client message into the terminal. The tool instantly returns:
 ### 1 — Clone the repo
 
 ```bash
-git clone git@github.com:lyndon-byte/strata-practical-task.git
+git clone https://github.com/lyndon-byte/strata-practical-task.git
 cd strata-practical-task
 ```
 
@@ -86,7 +86,7 @@ Type `exit` to quit.
 
 ```bash
 # 1. Clone
-git clone git@github.com:lyndon-byte/strata-practical-task.git
+git clone https://github.com/lyndon-byte/strata-practical-task.git
 
 # 2. Enter project folder
 cd strata-practical-task
@@ -109,7 +109,7 @@ node .
 
 ```cmd
 :: 1. Clone
-git clone git@github.com:lyndon-byte/strata-practical-task.git
+git clone https://github.com/lyndon-byte/strata-practical-task.git
 
 :: 2. Enter project folder
 cd strata-practical-task
