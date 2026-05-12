@@ -10,7 +10,7 @@
 
 ## ✨ What it does
 
-Paste or type any client message into the terminal. The tool instantly returns:
+type any client message into the terminal. The tool instantly returns:
 
 - 🏷️ **Classification** — what type of enquiry it is
 - ⚡ **Urgency** — High / Medium / Low with visual badge
